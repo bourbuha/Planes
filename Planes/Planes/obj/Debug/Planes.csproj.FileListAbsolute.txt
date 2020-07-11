@@ -1,0 +1,9 @@
+C:\Users\1\source\repos\Planes\Planes\bin\Debug\Planes.exe.config
+C:\Users\1\source\repos\Planes\Planes\bin\Debug\Planes.exe
+C:\Users\1\source\repos\Planes\Planes\bin\Debug\Planes.pdb
+C:\Users\1\source\repos\Planes\Planes\obj\Debug\Planes.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Planes\Planes\obj\Debug\Planes.Form1.resources
+C:\Users\1\source\repos\Planes\Planes\obj\Debug\Planes.Properties.Resources.resources
+C:\Users\1\source\repos\Planes\Planes\obj\Debug\Planes.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Planes\Planes\obj\Debug\Planes.exe
+C:\Users\1\source\repos\Planes\Planes\obj\Debug\Planes.pdb
